@@ -1,6 +1,6 @@
 # Java-Spring-Training
 
-<b>This is a employeee-management-portal project developed using Spring-boot, Thymeleaf and MySQL.</b>
+<b>This is a employeee-management-portal project developed using Spring-boot and MySQL.</b>
 This web application lets you to add, delete, edit , search and update employees in different departments for enterprise needs and contact info with validations of all the inputs.
 
 ## Project Overview
@@ -8,7 +8,7 @@ This web application lets you to add, delete, edit , search and update employees
 * Under the `src/test` are located test files
 * `src/main/resources` contains configuration files and static resources
 * The frontend directory in the root folder contains client-side dependencies and resource files
-* Templates would be stored under the `src/main/webapp/WEB-INF/views`
+
 
 ## HOW IT LOOKS
 
